@@ -9,6 +9,7 @@ public class TestMain {
 		System.out.println("This is a git intro project");
 		System.out.println("First change");
 		System.out.println("Second change");
+		System.out.println("By2nd user");
 	}
 
 }
