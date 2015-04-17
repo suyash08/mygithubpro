@@ -9,6 +9,7 @@ public class TestMain {
 		// TODO Auto-generated method stub
 		System.out.println("This is a git intro project");
 		System.out.println("First change");
+		System.out.println("Second change");
 	}
 
 }
